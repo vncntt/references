@@ -1,0 +1,609 @@
+=== New Run Starting 2025-02-23T20:48:28.103822 ===
+
+
+=== 2025-02-23T20:48:30.663453 ===
+Prompt:
+Return ONLY a JSON object wrapped in ```json tags. The JSON must contain:
+    {
+        "title": "string - most prominent heading",
+        "author": "string - personal or organizational", 
+        "date": "string - YYYY-MM-DD format",
+        "source_organization": "string - publisher/site owner",
+    }
+
+    RESPOND WITH ONLY THE JSON AND NOTHING ELSE. If you don't find one of the fields, return NOT_FOUND as the value.
+    
+    Content: Are You Smart Enough to Work at Google? - William Poundstone - Google Books Sign in Hidden fields Books Try the new Google Books Check out the new look and enjoy easier access to your favorite features Try it now No thanks Try the new Google Books Try the new Google Books My library Help Advanced Book Search Get print book No eBook available Amazon.co.uk BookDepository Waterstones WHSmith Blackwell Google Product Search Find in a library All sellers » Shop for Books on Google Play Browse the world's largest eBookstore and start reading today on the web, tablet, phone, or ereader. Go to Google Play Now » Are You Smart Enough to Work at Google? William Poundstone Oneworld Publications , Jan 4, 2012 - Business &amp; Economics - 288 pages You are shrunk to the height of a penny and thrown in a blender. The blades start moving in sixty seconds. What do you do? If you want to work at Google, or any of the world’s top employers, you’ll need to have a convincing answer to this and countless other baffling puzzles. Are You Smart Enough to Work at Google? Reveals the new extreme interview questions in the postcrash, hypercompetitive job-market and uncovers the extraordinary lengths to which the best companies will go to find the right staff. Bestselling author William Poundstone guides readers through the surprising solutions to over a hundred of the most challenging conundrums used in interviews, as well as covering the importance of creative thinking, what your Facebook page says about you, and what really goes on inside the Googleplex. How will you fare? About the author (2012) William Poundstone is the author of more than ten non-fiction books, including Fortune's Formula, which was the Amazon Editors' Pick for #1 non-fiction book of 2005. Poundstone has written for The New York Times, Psychology Today, Esquire, Harpers, The Economist, and Harvard Business Review. He has appeared on the Today Show, The David Letterman Show and hundreds of radio talk-shows throughout the world. Poundstone studied physics at MIT and many of his ideas concern the social and financial impact of scientific ideas. His books have sold over half a million copies worldwide. Bibliographic information Title Are You Smart Enough to Work at Google? Author William Poundstone Edition illustrated, reprint Publisher Oneworld Publications, 2012 ISBN 1780740751, 9781780740751 Length 288 pages Subjects Business &amp; Economics › Careers › Job Hunting Business &amp; Economics / Careers / Job Hunting Export Citation BiBTeX EndNote RefMan About Google Books - Privacy Policy - Terms of Service - Information for Publishers - Report an issue - Help - Google Home
+
+
+Response:
+```json
+{
+    "title": "Are You Smart Enough to Work at Google?",
+    "author": "William Poundstone",
+    "date": "2012-01-04",
+    "source_organization": "Oneworld Publications"
+}
+```
+
+
+=== 2025-02-23T20:48:35.384184 ===
+Prompt:
+Return ONLY a JSON object wrapped in ```json tags. The JSON must contain:
+    {
+        "title": "string - most prominent heading",
+        "author": "string - personal or organizational", 
+        "date": "string - YYYY-MM-DD format",
+        "source_organization": "string - publisher/site owner",
+    }
+
+    RESPOND WITH ONLY THE JSON AND NOTHING ELSE. If you don't find one of the fields, return NOT_FOUND as the value.
+    
+    Content: In Head-Hunting, Big Data May Not Be Such a Big Deal - NYTimes.com In Head-Hunting, Big Data May Not Be Such a Big Deal - NYTimes.com archived 10 May 2015 13:04:09 UTC archive.today webpage capture Saved from history ←prior next→ 10 May 2015 13:04:09 UTC Redirected from history ←prior next→ All snapshots from host www.nytimes.com Webpage Screenshot share download .zip report bug or abuse Reddit VKontakte Twitter Pinboard Livejournal short link long link markdown html code
+<a href="http://archive.today/Rexwl">
+ <img src="https://archive.is/Rexwl/117cdf1132e265526c4a23e8d718687ef71d762d/scr.png" style="width:300px;height:200px;background-color:white"/>
+ <br/>
+ In Head-Hunting, Big Data May Not Be Such a Big Deal - NYTimes.com
+ <br/>
+ archived 10 May 2015 13:04:09 UTC
+</a>
+wiki code {{cite web | title = In Head-Hunting, Big Data May Not Be Such a Big Deal - NYTimes.com | url = http://www.nytimes.com/2013/06/20/business/in-head-hunting-big-data-may-not-be-such-a-big-deal.html?pagewanted=all&amp;_r=0 | date = 2015-05-10 | archiveurl = http://archive.today/Rexwl | archivedate = 2015-05-10 }} NYTimes.com no longer supports Internet Explorer 8 or earlier. Please upgrade your browser. LEARN MORE » Sections Home Search Skip to content Skip to navigation View mobile version Business Day | In Head-Hunting, Big Data May Not Be Such a Big Deal Advertisement Email Share Tweet More Search Subscribe Now campaign: abTest_bar1_intl_no_hover_0515 -- 272591, creative: abTest_bar1_intl_no_hover_0515_ad -- 400225, page: www.nytimes.com/yr/mo/day/business/in-head-hunting-big-data-may-not-be-such-a-big-deal.html, targetedPage: www.nytimes.com/yr/mo/day/business, position: Bar1, keywords: nyt5,Bock Laszlo,Google Inc,Hiring and Promotion,Executives and Management (Theory),Data-Mining and Database Marketing,has-none-lede-media,Corner Office,corner-office,article-long Log In 0 Settings Close search search sponsored by Search NYTimes.com Clear this text input Go http://nyti.ms/11MuanK Business Day Play Video Uber Fund-Raising Points to $50 Billion Valuation An App That Helps Drivers Earn the Most From Their Trips Strategies Fees on Mutual Funds Fall. Thank Yourself. Accused of Spying for China, Until She Wasn’t Legal Marijuana Faces Another Federal Hurdle: Taxes Preoccupations Veterans Battle for Jobs on the Home Front HistorySource Harry Truman’s Extreme Home Makeover Billionaire Lifts Marco Rubio, Politically and Personally Patrick Lynch, Police Union Leader, Faces Election Fight Applied Science Be Direct and Low-Key to Defuse Discord at the Office The Haggler Thieves Stole Her Money, but Not Her Debit Card Vocations: The Maple Tree Tapper The Sweet Science of Syrup Fair Game Bank of America’s Relief for Mortgage Borrowers Is Questioned Corner Office Joel Peterson of JetBlue on Listening Without an Agenda Economic View Unless You Are Spock, Irrelevant Things Matter in Economic Behavior Retiring New Math for Retirees and the 4% Withdrawal Rule Your Money Credit Cards With 2% Rebates, While (or if) They Last Wealth Matters The Benefits and Caveats in Physical Challenges for Charity Perfect Nails, Poisoned Workers Uber Joins the Bidding for Here, Nokia’s Digital Mapping Service Driven Video Review: Slugging Through the Mud to Find the Best S.U.V.s Business Travel Business Travelers Want to Be Left to Their Own Devices On Money What Hollywood Can Teach Us About the Future of Work A Woman-Led Law Firm That Lets Partners Be Parents Microsoft (Yes, Microsoft) Has a Far-Out Vision Play Video Your Money Did You Write Your College Application Essay About Money? We’d Like to... Loading... See next articles See previous articles Business Day Home Page Home Page World U.S. Politics New York Business Business Opinion Opinion Technology Science Health Sports Sports Arts Arts Fashion &amp; Style Fashion &amp; Style Food Food Travel Magazine Real Estate Obituaries Video The Upshot Conferences Crossword Times Premier Multimedia Photography NYT Store NYT Wine Club Times Journeys Subscribe Manage Account Today's Paper Blogs Times Topics Tools &amp; Services Jobs Classifieds Corrections More Advertisement Business Day In Head-Hunting, Big Data May Not Be Such a Big Deal JUNE 19, 2013 Inside Advertisement Continue reading the main story Advertisement Continue reading the main story Corner Office By ADAM BRYANT Continue reading the main story Share This Page Email Share Tweet Save more Continue reading the main story Continue reading the main story This interview with Laszlo Bock , senior vice president of people operations at Google , was conducted and condensed by Adam Bryant. Q. How is Big Data being used more in the leadership and management field? A. I think there’s been a fairly recent confluence of the ability to crunch lots of data at fairly low cost, venture capital investments that support new businesses in this field, and changes in what people expect. Leadership is a perennially difficult, immeasurable problem, so suddenly people are saying, “Maybe I can measure some piece of it.” Part of the challenge with leadership is that it’s very driven by gut instinct in most cases — and even worse, everyone thinks they’re really good at it. The reality is that very few people are. Years ago, we did a study to determine whether anyone at Google is particularly good at hiring. We looked at tens of thousands of interviews, and everyone who had done the interviews and what they scored the candidate, and how that person ultimately performed in their job. We found zero relationship. It’s a complete random mess, except for one guy who was highly predictive because he only interviewed people for a very specialized area, where he happened to be the world’s leading expert. Photo GAUGING SKILLS Laszlo Bock, senior vice president for people operations at Google, says some data is essentially worthless in assessing job candidates: G.P.A.'s. for instance, except for recent college graduates, and test scores. Credit Jim Wilson/The New York Times Q. What else has Google done in this field? A. I have to preface the answer by saying that when we look at any data related to our people, we treat the data with great respect. Typically, we give people an option to participate in anything either confidentially or anonymously. The lesson for anyone looking at this space is that you need to construct this really powerful tent of trust in the people gathering the data and how they use it. We’ve done some interesting things to figure out how many job candidates we should be interviewing for each position, who are better interviewers than others and what kind of attributes tend to predict success at Google. On the leadership side, we’re looking at what makes people successful leaders and how can we cultivate that. Advertisement Continue reading the main story We’re also observing people working together in different groups and have found that the average team size of any group at Google is about six people. So we’re trying to figure out which teams perform well and which don’t. Is it because of the type of people? Is it because of the number of people? Is it because of how they work together? Is there something in the dynamic? We don’t know what we’re going to discover. Q. Other insights from the studies you’ve already done? Corner Office Conversations with Adam Bryant about leadership and management. Joel Peterson of JetBlue on Listening Without an Agenda MAY 9 Diane von Furstenberg: The Key to Success Is Trusting Yourself APR 30 Sue Desmond-Hellmann: Helping People Find Their Sweet Spot APR 25 Alexa von Tobel of LearnVest: No, Really, What’s Your Weakness? APR 16 Andy Bryant of Intel: Don’t Just Check Off Career Boxes APR 11 See More » A. On the hiring side, we found that brainteasers are a complete waste of time. How many golf balls can you fit into an airplane? How many gas stations in Manhattan? A complete waste of time. They don’t predict anything. They serve primarily to make the interviewer feel smart. Instead, what works well are structured behavioral interviews, where you have a consistent rubric for how you assess people, rather than having each interviewer just make stuff up. Behavioral interviewing also works — where you’re not giving someone a hypothetical, but you’re starting with a question like, “Give me an example of a time when you solved an analytically difficult problem.” The interesting thing about the behavioral interview is that when you ask somebody to speak to their own experience, and you drill into that, you get two kinds of information. One is you get to see how they actually interacted in a real-world situation, and the valuable “meta” information you get about the candidate is a sense of what they consider to be difficult. Advertisement Continue reading the main story On the leadership side, we’ve found that leadership is a more ambiguous and amorphous set of characteristics than the work we did on the attributes of good management, which are more of a checklist and actionable. We found that, for leaders, it’s important that people know you are consistent and fair in how you think about making decisions and that there’s an element of predictability. If a leader is consistent, people on their teams experience tremendous freedom, because then they know that within certain parameters, they can do whatever they want. If your manager is all over the place, you’re never going to know what you can do, and you’re going to experience it as very restrictive. Q. Other examples? A. Twice a year, anybody who has a manager is surveyed on the manager’s qualities. We call it an upward feedback survey. We collect data for everyone in the company who’s a manager on how well they’re doing on anywhere between 12 and 18 different factors. We then share that with the manager, and we track improvement across the whole company. Over the last three years, we’ve significantly improved the quality of people management at Google, measured by how happy people are with their managers. We’ve actually made it harder to be a bad manager. If you go back to somebody and say, “Look, you’re an eighth-percentile people manager at Google. This is what people say.” They might say, “Well, you know, I’m actually better than that.” And then I’ll say, “That’s how you feel. But these are the facts that people are reporting about how they experience you.” You don’t actually have to do that much more. Because for most people, just knowing that information causes them to change their conduct. One of the applications of Big Data is giving people the facts, and getting them to understand that their own decision-making is not perfect. And that in itself causes them to change their behavior. Q. What are some things that the managers are ranked on? A. Some of them are very straightforward — the manager treats me with respect, the manager gives me clear goals, the manager shares information, the manager treats the entire team fairly. These are fundamental things that turn out to be really important in making people feel excited and happy and wanting to go the extra mile for you. Q. Other insights from the data you’ve gathered about Google employees? A. One of the things we’ve seen from all our data crunching is that G.P.A.’s are worthless as a criteria for hiring, and test scores are worthless — no correlation at all except for brand-new college grads, where there’s a slight correlation. Google famously used to ask everyone for a transcript and G.P.A.’s and test scores, but we don’t anymore, unless you’re just a few years out of school. We found that they don’t predict anything. What’s interesting is the proportion of people without any college education at Google has increased over time as well. So we have teams where you have 14 percent of the team made up of people who’ve never gone to college. Advertisement Continue reading the main story Advertisement Continue reading the main story Q. Can you elaborate a bit more on the lack of correlation? A. After two or three years, your ability to perform at Google is completely unrelated to how you performed when you were in school, because the skills you required in college are very different. You’re also fundamentally a different person. You learn and grow, you think about things differently. Another reason is that I think academic environments are artificial environments. People who succeed there are sort of finely trained, they’re conditioned to succeed in that environment. One of my own frustrations when I was in college and grad school is that you knew the professor was looking for a specific answer. You could figure that out, but it’s much more interesting to solve problems where there isn’t an obvious answer. You want people who like figuring out stuff where there is no obvious answer. Q. Any crystal-ball thoughts about how Big Data will be used in the future? A. When you start doing studies in these areas, Big Data — when applied to leadership — has tremendous potential to uncover the 10 universal things we should all be doing. But there are also things that are specifically true only about your organization, and the people you have and the unique situation you’re in at that point in time. I think this will be a constraint to how big the data can get because it will always require an element of human insight. In terms of leadership, success is very dependent on the context. What works at Google or G.E. or Goldman Sachs is not going to be the right answer for everyone. I don’t think you’ll ever replace human judgment and human inspiration and creativity because, at the end of the day, you need to be asking questions like, O.K., the system says this. Is this really what we want to do? Is that the right thing? This interview was edited and condensed. A version of this article appears in print on June 20, 2013, on page F6 of the New York edition with the headline: In Head-Hunting, Big Data May Not Be Such a Big Deal. Order Reprints | Today's Paper | Subscribe Most Emailed Retiring: New Math for Retirees and the 4% Withdrawal Rule Perfect Nails, Poisoned Workers Opinion: What’s the Point of a Professor? Gail Collins: The Alamo and Walmart The Price of Nice Nails Billionaire Lifts Marco Rubio, Politically and Personally Frida Kahlo Is Having a Moment Op-Ed | Doug Glanville: Confessions of a Major League T-Ball Coach Op-Ed Contributor: How Russians Lost the War Priced Out of Brooklyn? Try Manhattan View Complete List » Loading... Close this overlay Go to previous Go to next Loading... Go to Home Page » Site Index News World U.S. Politics New York Business Technology Science Health Sports Education Obituaries Today's Paper Corrections Opinion Today's Opinion Op-Ed Columnists Editorials Contributing Writers Op-Ed Contributors Opinionator Letters Sunday Review Taking Note Room for Debate Public Editor Video: Opinion Arts Today's Arts Art &amp; Design ArtsBeat Books Dance Movies Music N.Y.C. Events Guide Television Theater Video Games Video: Arts Living Automobiles Crossword Food Education Fashion &amp; Style Health Home &amp; Garden Jobs Magazine N.Y.C. Events Guide Real Estate T Magazine Travel Weddings &amp; Celebrations Listings &amp; More Classifieds Tools &amp; Services Times Topics Public Editor N.Y.C. Events Guide TV Listings Blogs Cartoons Multimedia Photography Video NYT Store Times Journeys Subscribe Manage My Account Subscribe Subscribe Times Premier Home Delivery Digital Subscriptions NYT Opinion Crossword Email Newsletters Alerts Gift Subscriptions Corporate Subscriptions Education Rate Mobile Applications Replica Edition International New York Times © 2015 The New York Times Company Home Search Contact Us Work With Us Advertise Your Ad Choices Privacy Terms of Service Terms of Sale Site Map Help Site Feedback Subscriptions Go to the previous story Uber Fund-Raising Points to $50 Billion Valuation Go to the next story My Profile My Account My Billing Information My Saved Items Log Out Close this modal window Africa Americas Asia Pacific Europe Middle East At War India Ink Sinosphere Education The Upshot Motherlode First Draft Elections The Upshot City Room ArtsBeat Events DealBook Economy Energy Markets Media Small Business Your Money Automobiles DealBook Economy Energy Markets Media Small Business Your Money Automobiles Op-Ed Columnists Editorials Contributing Writers Op-Ed Contributors Opinionator Letters Sunday Review Taking Note Room for Debate Public Editor Cartoons Op-Ed Columnists Editorials Contributing Writers Op-Ed Contributors Opinionator Letters Sunday Review Taking Note Room for Debate Public Editor Cartoons Bits Personal Tech Environment Space &amp; Cosmos Well Money &amp; Policy Health Guide Baseball Basketball: College Basketball: N.B.A. Football: College Football: N.F.L. Golf Hockey Soccer Tennis Baseball Basketball: College Basketball: N.B.A. Football: College Football: N.F.L. Golf Hockey Soccer Tennis Art &amp; Design ArtsBeat Books Dance Movies Music N.Y.C. Events Guide Television Theater Video Games Art &amp; Design ArtsBeat Books Dance Movies Music N.Y.C. Events Guide Television Theater Video Games Men's Style T Magazine On the Runway Weddings Men's Style T Magazine On the Runway Weddings Cooking Restaurant Search Cooking Restaurant Search Commercial Real Estate Great Homes &amp; Destinations Home &amp; Garden My Real Estate U.S. &amp; Politics International New York Op-Docs Opinion Times Documentaries Business Technology Culture Style Health Food Travel Sports Real Estate Science Women in the World Cities for Tomorrow Home Page Home Page World U.S. Politics New York Business Business Opinion Opinion Technology Science Health Sports Sports Arts Arts Fashion &amp; Style Fashion &amp; Style Food Food Travel Magazine Real Estate Obituaries Video The Upshot Conferences Crossword Times Premier Multimedia Photography NYT Store NYT Wine Club Times Journeys Subscribe Manage Account Today's Paper Blogs Times Topics Tools &amp; Services Jobs Classifieds Corrections Charles M. Blow David Brooks Frank Bruni Roger Cohen Gail Collins Ross Douthat Maureen Dowd Thomas L. Friedman Nicholas Kristof Paul Krugman Joe Nocera Charles M. Blow David Brooks Frank Bruni Roger Cohen Gail Collins Ross Douthat Maureen Dowd Thomas L. Friedman Nicholas Kristof Paul Krugman Joe Nocera Close this modal window Edition U.S. International 中文 (Chinese) Help FAQ Contact Us Type Size A Type size small A Type size medium A Type size large Close this modal window Log in To save articles or get newsletters, alerts or recommendations – all free. Log in with Facebook Log in with Google OR Email address Clear this text input Password Clear this text input Remember me Forgot password? Terms of Service Privacy Policy Log in Don’t have an account? Sign Up Close this modal window Sign up To save articles or get newsletters, alerts or recommendations – all free. Sign up with Facebook Sign up with Google OR Email address Clear this text input Password Clear this text input Retype password Clear this text input By signing up, you agree to receive updates and special offers for The New York Times’s products and services. You may unsubscribe at any time. Terms of Service Privacy Policy Create Account Already have an account? Log In Close this modal window New! Use your left and right arrow keys to browse articles. Close this modal window campaign: inyt2014_data_element_euro -- 264982, creative: inyt2014_Euro_data_element -- 391666, page: www.nytimes.com/LandingPage/AB, targetedPage: www.nytimes.com/LandingPage/AB, position: data_country 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+
+Response:
+```json
+{
+    "title": "In Head-Hunting, Big Data May Not Be Such a Big Deal",
+    "author": "ADAM BRYANT",
+    "date": "2013-06-20",
+    "source_organization": "The New York Times"
+}
+```
+
+
+=== 2025-02-23T20:48:37.381139 ===
+Prompt:
+Return ONLY a JSON object wrapped in ```json tags. The JSON must contain:
+    {
+        "title": "string - most prominent heading",
+        "author": "string - personal or organizational", 
+        "date": "string - YYYY-MM-DD format",
+        "source_organization": "string - publisher/site owner",
+    }
+
+    RESPOND WITH ONLY THE JSON AND NOTHING ELSE. If you don't find one of the fields, return NOT_FOUND as the value.
+    
+    Content: Drag Forces | Physics Skip to main content Physics Further Applications of Newton’s Laws: Friction, Drag, and Elasticity Search for: Drag Forces Learning Objectives By the end of this section, you will be able to: Express mathematically the drag force. Discuss the applications of drag force. Define terminal velocity. Determine the terminal velocity given mass. Another interesting force in everyday life is the force of drag on an object when it is moving in a fluid (either a gas or a liquid). You feel the drag force when you move your hand through water. You might also feel it if you move your hand during a strong wind. The faster you move your hand, the harder it is to move. You feel a smaller drag force when you tilt your hand so only the side goes through the air—you have decreased the area of your hand that faces the direction of motion. Like friction, the drag force always opposes the motion of an object. Unlike simple friction, the drag force is proportional to some function of the velocity of the object in that fluid. This functionality is complicated and depends upon the shape of the object, its size, its velocity, and the fluid it is in. For most large objects such as bicyclists, cars, and baseballs not moving too slowly, the magnitude of the drag force F D is found to be proportional to the square of the speed of the object. We can write this relationship mathematically as [latex]F_{\text{D}}\propto{v}^2\\[/latex]. When taking into account other factors, this relationship becomes [latex]F_{\text{D}}=\frac{1}{2}\text{C}\rho{A}v^2\\[/latex], where C is the drag coefficient, A is the area of the object facing the fluid, and ρ is the density of the fluid. (Recall that density is mass per unit volume.) This equation can also be written in a more generalized fashion as F D = bv 2 , where b is a constant equivalent to 0.5 CρA . We have set the exponent n for these equations as 2 because, when an object is moving at high velocity through air, the magnitude of the drag force is proportional to the square of the speed. As we shall see in a few pages on fluid dynamics, for small particles moving at low speeds in a fluid, the exponent n is equal to 1. Drag Force Drag force F D is found to be proportional to the square of the speed of the object. Mathematically [latex]F_{\text{D}}\propto{v}^2\\[/latex] [latex]F_{\text{D}}=\frac{1}{2}\text{C}\rho{A}v^2\\[/latex], where C is the drag coefficient, A is the area of the object facing the fluid, and ρ is the density of the fluid. Athletes as well as car designers seek to reduce the drag force to lower their race times. (See Figure 1). “Aerodynamic” shaping of an automobile can reduce the drag force and so increase a car’s gas mileage. Figure 1. From racing cars to bobsled racers, aerodynamic shaping is crucial to achieving top speeds. Bobsleds are designed for speed. They are shaped like a bullet with tapered fins. (credit: U.S. Army, via Wikimedia Commons) The value of the drag coefficient, C , is determined empirically, usually with the use of a wind tunnel. (See Figure 2). Figure 2. NASA researchers test a model plane in a wind tunnel. (credit: NASA/Ames) The drag coefficient can depend upon velocity, but we will assume that it is a constant here. Table 1 lists some typical drag coefficients for a variety of objects. Notice that the drag coefficient is a dimensionless quantity. At highway speeds, over 50% of the power of a car is used to overcome air drag. The most fuel-efficient cruising speed is about 70–80 km/h (about 45–50 mi/h). For this reason, during the 1970s oil crisis in the United States, maximum speeds on highways were set at about 90 km/h (55 mi/h). Table 1. Drag Coefficient Values Typical values of drag coefficient C . OBJECT C Airfoil 0.05 Toyota Camry 0.28 Ford Focus 0.32 Honda Civic 0.36 Ferrari Testarossa 0.37 Dodge Ram pickup 0.43 Sphere 0.45 Hummer H2 SUV 0.64 Skydiver (feet first) 0.70 Bicycle 0.90 Skydiver (horizontal) 1.0 Circular flat plate 1.12 Figure 3. Body suits, such as this LZR Racer Suit, have been credited with many world records after their release in 2008. Smoother “skin” and more compression forces on a swimmer’s body provide at least 10% less drag. (credit: NASA/Kathy Barnstorff) Substantial research is under way in the sporting world to minimize drag. The dimples on golf balls are being redesigned as are the clothes that athletes wear. Bicycle racers and some swimmers and runners wear full bodysuits. Australian Cathy Freeman wore a full body suit in the 2000 Sydney Olympics, and won the gold medal for the 400 m race. Many swimmers in the 2008 Beijing Olympics wore (Speedo) body suits; it might have made a difference in breaking many world records (See Figure 3). Most elite swimmers (and cyclists) shave their body hair. Such innovations can have the effect of slicing away milliseconds in a race, sometimes making the difference between a gold and a silver medal. One consequence is that careful and precise guidelines must be continuously developed to maintain the integrity of the sport. Some interesting situations connected to Newton’s second law occur when considering the effects of drag forces upon a moving object. For instance, consider a skydiver falling through air under the influence of gravity. The two forces acting on him are the force of gravity and the drag force (ignoring the buoyant force). The downward force of gravity remains constant regardless of the velocity at which the person is moving. However, as the person’s velocity increases, the magnitude of the drag force increases until the magnitude of the drag force is equal to the gravitational force, thus producing a net force of zero. A zero net force means that there is no acceleration, as given by Newton’s second law. At this point, the person’s velocity remains constant and we say that the person has reached his terminal velocity ( v t ). Since F D is proportional to the speed, a heavier skydiver must go faster for F D to equal his weight. Let’s see how this works out more quantitatively. At the terminal velocity, [latex]F_{\text{net}}=mg-F_{\text{D}}=ma=0\\[/latex]. Thus, [latex]mg=F_{\text{D}}\\[/latex]. Using the equation for drag force, we have [latex]mg=\frac{1}{2}\rho{CAv}^2\\[/latex]. Solving for the velocity, we obtain [latex]v=\sqrt{\frac{2mg}{\rho{CA}}}\\[/latex]. Assume the density of air is ρ = 1.21 kg/m 3 . A 75-kg skydiver descending head first will have an area approximately A = 0.18 m 2 and a drag coefficient of approximately C =0.70. We find that [latex]\begin{array}{lll}v&amp; =&amp; \sqrt{\frac{2\left(\text{75 kg}\right)\left(9\text{.80 m}{\text{/s}}^{2}\right)}{\left(1\text{.}\text{21 kg}{\text{/m}}^{3}\right)\left(0\text{.}\text{70}\right)\left(\text{0.18}{\text{m}}^{2}\right)}}\\ &amp; =&amp; \text{98 m/s}\\ &amp; =&amp; \text{350 km/h}\text{.}\end{array}\\[/latex] This means a skydiver with a mass of 75 kg achieves a maximum terminal velocity of about 350 km/h while traveling in a pike (head first) position, minimizing the area and his drag. In a spread-eagle position, that terminal velocity may decrease to about 200 km/h as the area increases. This terminal velocity becomes much smaller after the parachute opens. Take-Home Experiment This interesting activity examines the effect of weight upon terminal velocity. Gather together some nested coffee filters. Leaving them in their original shape, measure the time it takes for one, two, three, four, and five nested filters to fall to the floor from the same height (roughly 2 m). (Note that, due to the way the filters are nested, drag is constant and only mass varies.) They obtain terminal velocity quite quickly, so find this velocity as a function of mass. Plot the terminal velocity v versus mass. Also plot v 2 versus mass. Which of these relationships is more linear? What can you conclude from these graphs? Example 1. A Terminal Velocity Find the terminal velocity of an 85-kg skydiver falling in a spread-eagle position. Strategy At terminal velocity, F net = 0. Thus the drag force on the skydiver must equal the force of gravity (the person’s weight). Using the equation of drag force, we find [latex]mg=\frac{1}{2}\rho{CAv}^2\\[/latex]. Thus the terminal velocity v t can be written as [latex]v_{\text{t}}\sqrt{\frac{2mg}{\rho{CA}}}\\[/latex]. Solution All quantities are known except the person’s projected area. This is an adult (82 kg) falling spread eagle. We can estimate the frontal area as A = (2 m)(0.35 m) = 0.70 m 2 . Using our equation for v , we find that [latex]\begin{array}{lll}{v}_{\text{t}}&amp; =&amp; \sqrt{\frac{2\left(\text{85}\text{kg}\right)\left(9.80{\text{m/s}}^{2}\right)}{\left(1.21{\text{kg/m}}^{3}\right)\left(1.0\right)\left(0.70{\text{m}}^{2}\right)}}\\ &amp; =&amp; \text{44 m/s.}\end{array}\\[/latex] Discussion This result is consistent with the value for v t mentioned earlier. The 75-kg skydiver going feet first had a v = 98 m/s. He weighed less but had a smaller frontal area and so a smaller drag due to the air. The size of the object that is falling through air presents another interesting application of air drag. If you fall from a 5-m high branch of a tree, you will likely get hurt—possibly fracturing a bone. However, a small squirrel does this all the time, without getting hurt. You don’t reach a terminal velocity in such a short distance, but the squirrel does. The following interesting quote on animal size and terminal velocity is from a 1928 essay by a British biologist, J.B.S. Haldane, titled “On Being the Right Size.” To the mouse and any smaller animal, [gravity] presents practically no dangers. You can drop a mouse down a thousand-yard mine shaft; and, on arriving at the bottom, it gets a slight shock and walks away, provided that the ground is fairly soft. A rat is killed, a man is broken, and a horse splashes. For the resistance presented to movement by the air is proportional to the surface of the moving object. Divide an animal’s length, breadth, and height each by ten; its weight is reduced to a thousandth, but its surface only to a hundredth. So the resistance to falling in the case of the small animal is relatively ten times greater than the driving force. The above quadratic dependence of air drag upon velocity does not hold if the object is very small, is going very slow, or is in a denser medium than air. Then we find that the drag force is proportional just to the velocity. This relationship is given by Stokes’ law , which states that F s = 6 πrηv , where r is the radius of the object, η is the viscosity of the fluid, and v is the object’s velocity. Stokes’ Law F s = 6 πrηv , where r is the radius of the object, η is the viscosity of the fluid, and v is the object’s velocity. Figure 4. Geese fly in a V formation during their long migratory travels. This shape reduces drag and energy consumption for individual birds, and also allows them a better way to communicate. (credit: Julo, Wikimedia Commons) Good examples of this law are provided by microorganisms, pollen, and dust particles. Because each of these objects is so small, we find that many of these objects travel unaided only at a constant (terminal) velocity. Terminal velocities for bacteria (size about 1 μm) can be about 2 μm/s. To move at a greater speed, many bacteria swim using flagella (organelles shaped like little tails) that are powered by little motors embedded in the cell. Sediment in a lake can move at a greater terminal velocity (about 5μ m/s), so it can take days to reach the bottom of the lake after being deposited on the surface. If we compare animals living on land with those in water, you can see how drag has influenced evolution. Fishes, dolphins, and even massive whales are streamlined in shape to reduce drag forces. Birds are streamlined and migratory species that fly large distances often have particular features such as long necks. Flocks of birds fly in the shape of a spear head as the flock forms a streamlined pattern (see Figure 4). In humans, one important example of streamlining is the shape of sperm, which need to be efficient in their use of energy. Galileo’s Experiment Galileo is said to have dropped two objects of different masses from the Tower of Pisa. He measured how long it took each to reach the ground. Since stopwatches weren’t readily available, how do you think he measured their fall time? If the objects were the same size, but with different masses, what do you think he should have observed? Would this result be different if done on the Moon? PhET Explorations: Masses &amp; Springs A realistic mass and spring laboratory. Hang masses from springs and adjust the spring stiffness and damping. You can even slow time. Transport the lab to different planets. A chart shows the kinetic, potential, and thermal energy for each spring. Click to run the simulation. Section Summary Drag forces acting on an object moving in a fluid oppose the motion. For larger objects (such as a baseball) moving at a velocity v in air, the drag force is given by [latex]{F}_{\text{D}}=\frac{1}{2}\text{C}\rho{Av}^{2}\\[/latex], where C is the drag coefficient (typical values are given in Table 1), A is the area of the object facing the fluid, and [latex]\rho\\[/latex] is the fluid density. For small objects (such as a bacterium) moving in a denser medium (such as water), the drag force is given by Stokes’ law, [latex]{F}_{\text{s}}=6\pi\eta{rv}\\[/latex], where r is the radius of the object, η is the fluid viscosity, and v is the object’s velocity. Conceptual Questions Athletes such as swimmers and bicyclists wear body suits in competition. Formulate a list of pros and cons of such suits. Two expressions were used for the drag force experienced by a moving object in a liquid. One depended upon the speed, while the other was proportional to the square of the speed. In which types of motion would each of these expressions be more applicable than the other one? As cars travel, oil and gasoline leaks onto the road surface. If a light rain falls, what does this do to the control of the car? Does a heavy rain make any difference? Why can a squirrel jump from a tree branch to the ground and run away undamaged, while a human could break a bone in such a fall? Problems &amp; Exercises The terminal velocity of a person falling in air depends upon the weight and the area of the person facing the fluid. Find the terminal velocity (in meters per second and kilometers per hour) of an 80.0-kg skydiver falling in a pike (headfirst) position with a surface area of 0.140 m 2 . A 60-kg and a 90-kg skydiver jump from an airplane at an altitude of 6000 m, both falling in the pike position. Make some assumption on their frontal areas and calculate their terminal velocities. How long will it take for each skydiver to reach the ground (assuming the time to reach terminal velocity is small)? Assume all values are accurate to three significant digits. A 560-g squirrel with a surface area of 930 cm 2 falls from a 5.0-m tree to the ground. Estimate its terminal velocity. (Use a drag coefficient for a horizontal skydiver.) What will be the velocity of a 56-kg person hitting the ground, assuming no drag contribution in such a short distance? To maintain a constant speed, the force provided by a car’s engine must equal the drag force plus the force of friction of the road (the rolling resistance). (a) What are the magnitudes of drag forces at 70 km/h and 100 km/h for a Toyota Camry? (Drag area is 0.70 m 2 ) (b)What is the magnitude of drag force at 70 km/h and 100 km/h for a Hummer H2? (Drag area is 2.44 m 2 ) Assume all values are accurate to three significant digits. By what factor does the drag force on a car increase as it goes from 65 to 110 km/h? Calculate the speed a spherical rain drop would achieve falling from 5.00 km (a) in the absence of air drag (b) with air drag. Take the size across of the drop to be 4 mm, the density to be 1.00 × 10 3 kg/m 3 , and the surface area to be π r 2 . Using Stokes’ law, verify that the units for viscosity are kilograms per meter per second. Find the terminal velocity of a spherical bacterium (diameter 2.00 μ m) falling in water. You will first need to note that the drag force is equal to the weight at terminal velocity. Take the density of the bacterium to be 1.10 × 10 3 kg/m 3 . Stokes’ law describes sedimentation of particles in liquids and can be used to measure viscosity. Particles in liquids achieve terminal velocity quickly. One can measure the time it takes for a particle to fall a certain distance and then use Stokes’ law to calculate the viscosity of the liquid. Suppose a steel ball bearing (density 7.8 × 10 3 kg/m 3 , diameter 3.0 mm) is dropped in a container of motor oil. It takes 12 s to fall a distance of 0.60 m. Calculate the viscosity of the oil. Glossary drag force: F D , found to be proportional to the square of the speed of the object; mathematically [latex]{F}_{\text{D}}\propto {v}^{\text{2}}\\[/latex], [latex]{F}_{\text{D}}=\frac{1}{2}C\rho{Av}^{2}\\[/latex], where C is the drag coefficient, A is the area of the object facing the fluid, and [latex]\rho[/latex] is the density of the fluid Stokes’ law: [latex]{F}_{s}=6\pi{r}\eta{v}\\[/latex] , where r is the radius of the object, η is the viscosity of the fluid, and v is the object’s velocity Selected Solutions to Problems &amp; Exercises 1. 115 m/s; 414 km/hr 3. 25 m/s; 9.9 m/s 5. 2.9 7. [latex]\left[\eta \right]=\frac{\left[{F}_{\text{s}}\right]}{\left[r\right]\left[v\right]}=\frac{\text{kg}\cdot {\text{m/s}}^{2}}{\text{m}\cdot \text{m/s}}=\frac{\text{kg}}{\text{m}\cdot \text{s}}\\[/latex] 9. 0.76 kg/m·s Candela Citations CC licensed content, Shared previously College Physics. Authored by : OpenStax College. Located at : http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a/College_Physics . License : CC BY: Attribution . License Terms : Located at License PhET Interactive Simulations . Provided by : University of Colorado Boulder . Located at : http://phet.colorado.edu . License : Public Domain: No Known Copyright Licenses and Attributions CC licensed content, Shared previously College Physics. Authored by : OpenStax College. Located at : http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a/College_Physics . License : CC BY: Attribution . License Terms : Located at License PhET Interactive Simulations . Provided by : University of Colorado Boulder . Located at : http://phet.colorado.edu . License : Public Domain: No Known Copyright Previous Next
+
+
+Response:
+```json
+{
+    "title": "Drag Forces",
+    "author": "OpenStax College",
+    "date": "NOT_FOUND",
+    "source_organization": "Connexions"
+}
+```
+
+
+=== 2025-02-23T20:48:39.861098 ===
+Prompt:
+Return ONLY a JSON object wrapped in ```json tags. The JSON must contain:
+    {
+        "title": "string - most prominent heading",
+        "author": "string - personal or organizational", 
+        "date": "string - YYYY-MM-DD format",
+        "source_organization": "string - publisher/site owner",
+    }
+
+    RESPOND WITH ONLY THE JSON AND NOTHING ELSE. If you don't find one of the fields, return NOT_FOUND as the value.
+    
+    Content: JSTOR: Access Check Access Check Our systems have detected unusual traffic activity from your network. Please complete this reCAPTCHA to demonstrate that it's you making the requests and not a robot. If you are having trouble seeing or completing this challenge, this page may help. If you continue to experience issues, you can contact JSTOR support . Block Reference: #9c85f1f9-f26a-11ef-934c-5d84b85b0930 VID: # IP: 69.196.41.95 Date and time: Mon, 24 Feb 2025 04:48:37 GMT Javascript is disabled Go back to JSTOR ©2000- ITHAKA. All Rights Reserved. JSTOR®, the JSTOR logo, JPASS®, and ITHAKA® are registered trademarks of ITHAKA.
+
+
+Response:
+```json
+{
+    "title": "Access Check",
+    "author": "NOT_FOUND",
+    "date": "2025-02-24",
+    "source_organization": "ITHAKA"
+}
+```
+
+
+=== 2025-02-23T20:48:43.574489 ===
+Prompt:
+Analyze this PDF content snippet and return JSON with:
+    - title (most prominent heading)
+    - author (personal or organizational)
+    - date (prioritize publication dates in YYYY-MM-DD format)
+    - source_organization (publisher/site owner)
+    
+    RESPOND WITH ONLY THE JSON AND NOTHING ELSE. 
+
+    Examples of good responses:
+    ```json
+    {
+        "title": "The Development of the Electron Microscope and of Electron Microscopy",
+        "author": "Ernst Ruska",
+        "date": "1986-12-08",
+        "source_organization": "Nobel Foundation"
+    }
+    ```
+    ```json
+    {
+        "title": "Scherzer's Theorem",
+        "author": "CEOS GmbH",
+        "date": "2023-10-04",
+        "source_organization": "CEOS GmbH"
+    }
+    ```
+    END OF EXAMPLES
+
+    Content: * Address for correspondence: Jay Meyers, Northern Arizona University , Department of Biological Sciences, Flagstaff, AZ
+86011, USA. E-mail: jjm@dana.ucc.nau.edu.Topics in Functional and Ecological Vertebrate Morphology, pp. 47-62. 
+P. Aerts, K. D’Août, A. Herrel & R. Van Damme, Eds.
+© Shaker Publishing 2002, ISBN 90-423-0204-6
+Scaling of Morphology, Bite Force and Feeding Kinematics
+in an Iguanian and a Scleroglossan Lizard
+Jay J. Meyers 1*, Anthony Herrel 2 & James Birch 3
+1 Department of Biological Sciences, Northern Arizona University, USA2 Department of Biology, University of Antwerp, Belgium3 Department of Integrative Biology, University of California, Berkeley, USA
+Abstract
+Although  scaling studies have become increasingly common in the literature, relatively few studies
+have examined the feeding  behavior in terrestrial vertebrates.  This is an important point as most
+of the previous studies examining the scaling of feeding events were performed on aquatic
+organisms  and, in general, have failed to support the geometric similarity model of A.V. Hill.   In
+contrast, the results of terrestrial feeding in toads, do seem to  support the Hill model.  Therefore,
+we decided to examine the effects of size on the morphology and functioning of the feeding system
+in two species of lizards.  To investigate ontogenetic changes in the feeding system we measured
+changes  in skull shape, in-vivo bite forces and feeding kinematics.  Scaling relationships of the head
+morphology  generally support the Hill model, yet some variables show a tendency to being
+relatively  smaller in adult animals.  Interestingly, the in-vivo bite forces of both species scaled
+significantly  higher than predicted, with larger animals generating much higher bite forces than
+juveniles.   Most of the timing, displacement and velocity variables measured were significantly
+different than would be predicted by the Hill model and tended  to support an alternative model
+proposed  by Richard and Wainwright.  Although these scaling models provide testable hypotheses,
+it seems that in general the predictive power across taxa (and behaviors) may be limited.
+Key words: scaling, feeding, lizard, bite force.
+Introduction
+That animal size affects the movements and physiology of animals has long been known, and many
+studies  have addressed scaling patterns of physiological and kinesiological variables in a wide range
+of animals (e.g. Hill, 1950; Schmidt-Nielsen, 1984).  Despite its interest from a functional point of
+view,  the study of scaling also has important implications for ecological and behavioral studies of
+animals  (e.g. Carrier, 1996; Herrel et al., 1999a; Hernandez, 2000).  As animals grow, they will have
+to face the mechanical consequences of getting bigger.  As length increases, surface area (and
+muscle  force) increases to the second power, but masses will increase even more rapidly (third
+power).   As this may constrain movements and ultimately the performance of the animal,
+behavioral changes, for example in foraging mode or escape behavior, will be  required if animals
+are to occupy similar niches throughout ontogeny (Durtsche, 2000; Irschick, 2000).  Alternatively,
+the utilization of ecological niches may change as animals get bigger (Durtsche et al. 1997; Nilsson
+and Bronmark, 2000) or animals may show allometric growth patterns allowing them to occupy the48 Meyers et al.
+same  niche throughout ontogeny without needing radical changes in behaviour.  Given that size
+effects  influence performance throughout ontogeny and that selective pressures are typically high
+on juvenile stages, studies of scaling effects on locomotion and feeding are ecologically relevant
+(Carrier  1996; Hernandez, 2000).  Scaling studies are also important for comparative studies where
+the animals of interest may vary widely in size (Richard and Wainwright, 1995; Wainwright and
+Shaw,  1999).  Additionally, size is an important variable for community-level analysis as biological
+communities  are often complex and composed of animals of different sizes (Losos, 1994).  Given
+that size affects the performance of organisms, it in itself may play an important role in the
+partitioning  of resources within the community (Magnusson and Da Silva, 1993; Aguirre et al.,
+2002).  Understanding how size affects the performance of organisms is thus crucial in our
+understanding of animal behavior.
+Whereas  the effects of size often can be taken into account statistically (e.g. using analyses of
+covariance), sometimes this is not possible due to low  sample sizes, non-overlapping size ranges
+or differences in the scaling relationships between groups (e.g. slopes are not parallel).  To
+overcome  this, different theoretical models have been established to predict effects of size on
+movement.   In his ground-breaking paper, Hill (1950) predicted how muscle forces and movements
+would  scale with body size based on the premise that animals grow isometrically and that maximal
+muscle  shortening velocity does not change with size.  In an alternative model, Richard and
+Wainwright  (1995) predicted the effects of size on movements based on the premise that muscle
+shortening  velocity increases with animal size.  Empirical data on the effects of size on the
+kinesiology of locomotor and feeding systems in a variety of organisms have been used to test these
+models  (Katz and Gosline, 1993; Nauen and Shadwick, 1999, 2001; Quillin, 1999, 2000; Wilson
+et al. 2000).  Often, deviations from both the Hill model and the Richard and Wainwright model
+have been observed and no general consensus exists concerning the generality of these models.
+One of the few studies to support the Hill (1950) model looked at the scaling of feeding
+movements in terrestrial organisms (O'Reilly et al., 1993).  In contrast, most studies on the scaling
+of feeding behavior in aquatic organisms do not support the Hill model (Richard and Wainwright,
+1995;  Wainwright and Shaw, 1999; Hernandez, 2000).  Studies of scaling effects on feeding
+behavior are especially  interesting as this is an ecologically relevant behavior.  Moreover, feeding
+systems  involve fairly simple lever systems which allows for specific predictions of the effect of size
+on movements (Hernandez, 2000).
+As many ectotherms grow up to three orders of magnitude or more in the span of their life, these
+are ideal study subjects for scaling studies.  Given the ecological relevance, but lack of data for
+scaling  effects in terrestrial systems, we studied morphological and functional scaling of the jaw
+system in lizards.  As ectotherms typically grow  geometrically throughout their life, we predicted
+that bite forces and feeding movements would scale according to the Hill (1950) model.  
+Materials and Methods
+To address the effects of size on morphology, bite force and feeding kinematics in lizards, we
+examined  the feeding system in two groups of lizards: the spiny lizards ( Sceloporus ) and the whiptail
+lizards  (Cnemidophorus ).  For each group, two species were used, which allowed us to substantially
+increase  the size range within each group.  The Sceloporus  undulatus  used for the morphometric and
+kinematic  part of this study ranged in size from 0.45 - 7.33 g (22.34 - 65.20 mm snout-vent length,
+SVL;  N = 19), the Sceloporus magister  ranged from 8.30 g to 72.45g (56.5 - 119.70 mm SVL; N = 6).
+The Cnemidophorus  tigris used for the morphometric analysis ranged in size from 1.15 - 21.61 g (SVL:
+38.88  - 95.34 mm; N=7) and the Cnemidophorus  burti from 34.85 - 39.75 g (SVL: 109.96-111.94 mm;
+N= 2).  A series of external morphometric data (e.g. head width including the jaw muscle) and biteScaling of feeding in lizards 49
+Figure 1 . Dorsal (left) and lateral (right) skull measurements taken on Sceloporus undulatus , 
+S. magister , Cnemidophorus  tigris  and C. burti .  The skull shown is an adult cleared and stained S.
+undulatus .  1) head length; 2) head width; 3) postorbital width; 4) interorbital width; 5) head height; 6) lower jaw
+opening in-lever; 7) lower jaw closing in-lever; 8) lower jaw opening out-lever; 9) total jaw length.forces  were gathered for a size series of the same species ( Sceloporus  undulatus , body mass: 3.60 -
+11.27  g; SVL: 46.98 - 72.70 mm; N = 38; Sceloporus  magister , body mass: 8.35 - 72.45 g; SVL: 56.5
+- 113.22 mm; N  = 6; Cnemidophorus  tigris , body mass: 6.97 - 23.11 g; SVL: 65.49 - 92.55 mm; N =
+10; Cnemidophorus  burti, body mass: 40.39 g; SVL: 108.75 mm; N = 1). For Cnemidophorus , these same
+animals were used for the kinematic part of the study.
+The Sceloporus  used for the morphological component of this study were skinned and the bones and
+cartilage  stained following a modified procedure of Taylor (1967).  The Cnemidophorus  used for the
+morphometric analysis were skinned and partially  dissected to expose the bones on the skull and
+lower  jaw.  This allowed us to measure 9 linear distances on the skull: (1) skull length; (2) maximum
+skull width; (3) interorbital width;  (4) postorbital width; (5) maximum skull height; (6) lower jaw
+opening  in-lever;  (7) lower jaw closing in-lever; (8) lower jaw opening out-lever; (9) lower jaw
+length  (Fig. 1). Additionally, we measured the maximal anatomical gape distance for the cleared and
+stained Sceloporus  specimens.
+In vivo bite forces were measured using a Kistler force transducer (type 9203, Kistler Inc.,
+Switzerland)  mounted on a purpose-built holder (see Herrel et al., 1999a) and connected to a
+Kistler  (model 5995) charge amplifier.  Although animals were usually eager to bite, when needed
+they were stimulated to bite by gently tapping the sides of their jaws.  Trials were separated by at
+least 30 minutes, during which animals were allowed to thermoregulate.  This ensured that animals
+were biting at their preferred body temperature.  For each individual, the maximum bite force
+measured  out of 5 trials was considered to be its maximal bite capacity.  After the performance
+trials,  the following external morphometric data were determined (Tables 1, 2): head length (from
+the tip of the upper jaw to the back of the skull); head width at the widest point of the head; head
+height  at the highest point of the head; and lower jaw length (from the tip of the lower jaw to the
+back of the retroarticular process).  Note that all these measurements include soft tissues and are
+thus not a priori expected to scale similarly to the skull measurements (see higher).
+Feeding behavior was recorded at 120 frames s-1 using a Display Integration Technologies model
+DIT 660 high-speed video camera with synchronized strobe.  Lizards were allowed to feed
+unrestrained on a flat stage and prey (termites and crickets) were presented through an opening in
+the floor of the stage.  Prey diameter was approximately 30-50% of maximum gape and increased
+concomitantly  with lizard size.  We videotaped feeding sequences from 16 of the 25 Sceloporus  (13
+S. undulatus , 3 S. magister ).  Three to four feeding sequences were recorded from each individual with50 Meyers et al.
+a total of 39 sequences for S. undulatus , 9 for S. magister .  We digitized each feeding sequence using
+Peak Performance Technologies 2D motion analysis software (v. 5.2.1).  We only digitized feeding
+sequences  in which the lizard was perpendicular (±10°) to the plane of the camera in lateral view.
+For Cnemidophorus  we were able to record and analyse only 22 sequences for six individual C. tigris .
+We computed 27 kinematic variables from the XY-coordinates obtained by digitizing seven points
+on the animal and prey, and one non-moving reference point.  Points were located at the (1) tip of
+the upper jaw; (2) anterior corner of the eye; (3) jaw joint; (4) tip of the lower jaw; (5) tip of the
+tongue;  (6) hyoid, and (7) prey item (see Fig. 1 in Meyers and Nishikawa, 2000).  As the time lizards
+needed  between mouth opening and the beginning of the lunge was highly variable, we calculated
+both the time until prey contact and the time until maximum tongue protraction relative to the
+onset  of the lunge.  All other timing variables were computed relative to the onset of mouth
+opening  (t = 0) and consisted of seven durations: the time to maximum gape, measured as the time
+from  the onset of mouth opening until maximum gape distance; the time to maximum lunge
+distance,  measured as the time from the onset of first forward movement of the animal until its
+maximum  displacement in the X coordinate; the duration of mouth opening, calculated as the time
+from  the onset of mouth opening until the time of maximum gape; the duration of tongue
+protraction,  calculated as the time from first forward movement of the tongue until the time of
+maximum tongue protraction; the  duration of tongue retraction, calculated as the time from the
+onset  of tongue retraction until the completion of tongue retraction; the duration of mouth closing,
+calculated  as the time from the onset of mouth closing until the completion of mouth closing; the
+duration  of the recovery phase, calculated as the time from the maximum displacement of the
+upper jaw tip, until the completion of mouth closing.
+Other  variables were calculated directly from the digitized points: maximum gape angle, defined
+as the maximum angle between the upper jaw tip, jaw joint, and lower jaw tip; maximal gape
+distance,  calculated as the maximal linear distance between upper and lower jaw tips; the maximal
+head flexion angle, calculated as the maximum angle between the cranium and the horizontal; the
+tongue  reach, calculated as the maximum distance from the lower jaw tip to the tongue tip; the prey
+distance,  calculated as the rectilinear distance from the upper jaw tip to the prey at the onset of the
+lunge.   In addition, we calculated maximum velocities and accelerations of the lunge, of tongue
+protraction,  of  tongue retraction, of the lower jaw displacement during opening, of the lower jaw
+displacement  during closing, of angular mouth opening and of angular mouth closing.  For all
+timing  and duration events we used minimum values; for velocities, accelerations, distances and
+angles  we used the maximum values observed for each individual.  Kinematic variables were
+calculated  using Peak Performance Technologies 2D motion analysis software.  Velocities and
+accelerations  were calculated using Peak Motus software (v 6.1).  Scaled displacement data were
+filtered  using a quintic spline routine.  Next, velocities and accelerations were calculated using the
+smoothed data.  All variables were log10 transformed before regression analysis.
+Reduced  major axis regressions were used to examine the scaling of our variables with animal size.
+Correlation coefficients, intercepts, slopes and confidence  intervals on the slopes of the reduced
+major  axis regressions were calculated using the equations in Sokal and Rohlf (1995).  All variables
+were regressed against snout-vent length to make our results directly comparable to  Richard and
+Wainwright's (1995)  study of bass feeding.  Moreover, as snout-vent length is less prone to short
+term fluctuations than is body mass (depending on feeding condition etc.), we considered it to be
+a more robust indicator of overall animal size.Scaling of feeding in lizards 51
+Results
+Morphology
+Both  models being tested here assume that morphological characters should increase with animal
+size  as geometrical systems (slope of 1 for linear measures, 2 for surface areas and, 3 for volumes
+and masses).  Slopes that are significantly greater than predicted indicate positive allometry and
+those  slopes that are lower than predicted indicated negative allometry.  Since we have two
+morphometric  data sets for both species, one describing the skull and one describing the external
+anatomy,  we will use the following abbreviations to help clarify which data sets are being compared:
+Sceloporus  external morphometrics (Sext), Sceloporus  skull morphometrics (Sint), Cnemidophorus
+external morphometrics (Cext) and Cnemidophorus  skull morphometrics (Cint).
+For Sext, head length and head height were the only characters that scaled isometrically.  In Sint
+head height, interorbital width and opening in-lever scaled isometrically.  All other characters
+showed negative  allometric growth except for anatomical gape (see Table 1).  In general, juvenile
+sceloporines  have relatively larger heads than adults.  In Cext, all structures exhibited isometric
+growth except for head length. 
+Morphological
+measurementsR Intercept Slope Confidence
+IntervalsHill
+ModelGrowth
+Morphometric data of Sceloporus  (bite force)
+Body mass 0.99 -4.35 2.96 2.84 3.09 3 I
+Head length 0.96 -0.46 0.89 0.81 0.97 1 A
+Head width 0.95 -0.73 0.99 0.90 1.09 1 I
+Head height 0.93 -1.15 1.13 1.00 1.26 1 I
+Lower jaw length 0.97 -0.44 0.90 0.84 .97 1 A
+Bite force 0.60 -7.73 4.60 4.00 5.19 2 A
+Morphometric data of Sceloporus  (morphometric data)
+Body mass 0.99 -4.35 2.96 2.84 3.09 3 I
+Head length 0.99 -0.16 0.74 0.71 0.77 1 A
+Head width 0.99 -0.50 0.90 0.87 0.94 1 A
+Head height 0.98 -0.73 0.94 0.86 1.02 1 I
+Interorbital width 0.94 -1.52 0.97 0.82 1.12 1 I
+Postorbital width 0.98 -0.76 0.90 0.82 0.98 1 A
+Anatomical gape 0.96 -2.13 2.07 1.81 2.34 1 A
+Lower jaw length 0.99 -0.34 0.84 0.81 0.88 1 A
+Open in lever 0.96 -1.37 0.95 0.84 1.07 1 I
+Close in lever 0.95 -0.73 0.87 0.75 0.99 1 A
+Out lever 0.99 -0.39 0.83 0.80 0.87 1 A
+Critical values determining significant deviation from zero = 0.304 for Sceloporus  bite force data set and 0.404
+for Sceloporus  morphometric data.  Different individuals of Sceloporus  were used for the bite force ( S. undulatus
+N = 38 and S. magister  N = 6) and morphometric analysis ( S. undulatus  N = 19 and S. magister  N = 6).  We
+denote whether these data support the isometric growth model of Hill (I) or show allometric growth (A)
+Table  1.  Scaling relationships for morphological and in vivo bite force measurements from Sceloporus
+undulatus  and Sceloporus  magister .  Statistics represent log 10-transformed  morphological variables
+regressed against the log 10 of snout-vent length.
+    
+
+Response:
+```json
+{
+    "title": "Scaling of Morphology, Bite Force and Feeding Kinematics in an Iguanian and a Scleroglossan Lizard",
+    "author": "Jay J. Meyers, Anthony Herrel, James Birch",
+    "date": "2002",
+    "source_organization": "Shaker Publishing"
+}
+```
+
+
+=== 2025-02-23T20:48:45.443218 ===
+Prompt:
+Return ONLY a JSON object wrapped in ```json tags. The JSON must contain:
+    {
+        "title": "string - most prominent heading",
+        "author": "string - personal or organizational", 
+        "date": "string - YYYY-MM-DD format",
+        "source_organization": "string - publisher/site owner",
+    }
+
+    RESPOND WITH ONLY THE JSON AND NOTHING ELSE. If you don't find one of the fields, return NOT_FOUND as the value.
+    
+    Content: ResearchGate - Temporarily Unavailable Access denied You do not have access to www.researchgate.net. The site owner may have set restrictions that prevent you from accessing the site. Ray ID: 916cd330c9910fe3 Timestamp: 2025-02-24 04:48:43 UTC Your IP address: 2607:f720:f00:4010:f427:f02:53b9:2bb4 Requested URL: www.researchgate.net/publication/51574303_Relative_Net_Vertical_Impulse_Determines_Jumping_Performance Error reference number: 1020 Server ID: FL_446F261 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Ray ID: 916cd330c9910fe3 Client IP: 2607:f720:f00:4010:f427:f02:53b9:2bb4 © ResearchGate GmbH. All rights reserved.
+
+
+Response:
+```json
+{
+    "title": "NOT_FOUND",
+    "author": "NOT_FOUND",
+    "date": "2025-02-24",
+    "source_organization": "ResearchGate GmbH"
+}
+```
+
+
+=== 2025-02-23T20:48:53.224347 ===
+Prompt:
+Return ONLY a JSON object wrapped in ```json tags. The JSON must contain:
+    {
+        "title": "string - most prominent heading",
+        "author": "string - personal or organizational", 
+        "date": "string - YYYY-MM-DD format",
+        "source_organization": "string - publisher/site owner",
+    }
+
+    RESPOND WITH ONLY THE JSON AND NOTHING ELSE. If you don't find one of the fields, return NOT_FOUND as the value.
+    
+    Content: 8.3: Body Orientation During a Skydive - Physics LibreTexts Skip to main content Table of Contents menu search Search build_circle Toolbar fact_check Homework cancel Exit Reader Mode school Campus Bookshelves menu_book Bookshelves perm_media Learning Objects login Login how_to_reg Request Instructor Account hub Instructor Commons Search Search this book Submit Search x Text Color Reset Bright Blues Gray Inverted Text Size Reset + - Margin Size Reset + - Font Type Enable Dyslexic Font Downloads expand_more Download Page (PDF) Download Full Book (PDF) Resources expand_more Periodic Table Physics Constants Scientific Calculator Reference expand_more Reference &amp; Cite Tools expand_more Help expand_more Get Help Feedback Readability x selected template will load here Error This action is not available. chrome_reader_mode Enter Reader Mode 8: Skydiving Body Physics - Motion to Metabolism (Davis) { } { "8.01:_Unit_8_Practice_and_Assessment" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+<pagesubpageproperty>
+ b__1]()", "8.02:_Free_Fall" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+ <pagesubpageproperty>
+  b__1]()", "8.03:_Body_Orientation_During_a_Skydive" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+  <pagesubpageproperty>
+   b__1]()", "8.04:_Physical_Model_for_Terminal_Velocity" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+   <pagesubpageproperty>
+    b__1]()", "8.05:_Analyzing_Skydiving_Motion" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+    <pagesubpageproperty>
+     b__1]()", "8.06:_Acceleration_During_a_Skydive" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+     <pagesubpageproperty>
+      b__1]()", "8.07:_Graphing_Terminal_Velocity_and_Other_Motion" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+      <pagesubpageproperty>
+       b__1]()", "8.08:_Quantitative_Motion_Analysis" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+       <pagesubpageproperty>
+        b__1]()", "8.09:_Numerical_Simulation_of_Skydiving_Motion" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+        <pagesubpageproperty>
+         b__1]()", "8.10:_Unit_8_Review" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+         <pagesubpageproperty>
+          b__1]()" } { "00:_Front_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+          <pagesubpageproperty>
+           b__1]()", "01:_Purpose_and_Preparation" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+           <pagesubpageproperty>
+            b__1]()", "02:_Measuring_the_Body" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+            <pagesubpageproperty>
+             b__1]()", "03:_Error_in_Body_Composition_Measurement" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+             <pagesubpageproperty>
+              b__1]()", "04:_Better_Body_Composition_Measurement" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+              <pagesubpageproperty>
+               b__1]()", "05:_Maintaining_Balance" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+               <pagesubpageproperty>
+                b__1]()", "06:_Forces_within_the_Body" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+                <pagesubpageproperty>
+                 b__1]()", "07:_Strength_and_Elasticity_of_the_Body" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+                 <pagesubpageproperty>
+                  b__1]()", "08:_Skydiving" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+                  <pagesubpageproperty>
+                   b__1]()", "09:_Injury_and_Injury_Prevention" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+                   <pagesubpageproperty>
+                    b__1]()", "10:_Powering_the_Body" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+                    <pagesubpageproperty>
+                     b__1]()", "11:_Body_Heat_and_The_Fight_for_Life" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+                     <pagesubpageproperty>
+                      b__1]()", "12:_Laboratory_Activities" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+                      <pagesubpageproperty>
+                       b__1]()", "13:_Design-Build-Test_Projects" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+                       <pagesubpageproperty>
+                        b__1]()", "14:_Lab_Extension_Activities" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+                        <pagesubpageproperty>
+                         b__1]()", "zz:_Back_Matter" : "property get [Map MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+&lt;&gt;c__DisplayClass230_0.
+                         <pagesubpageproperty>
+                          b__1]()" } Tue, 12 Mar 2024 16:28:29 GMT 8.3: Body Orientation During a Skydive 17769 17769 Delmar Larsen { } Anonymous Anonymous 2 false false [ "article:topic", "license:ccbyncsa", "showtoc:no", "source-chem-155533", "authorname:ldavis", "licenseversion:40", "program:openoregon", "source@https://openoregon.pressbooks.pub/bpsupmat/" ] [ "article:topic", "license:ccbyncsa", "showtoc:no", "source-chem-155533", "authorname:ldavis", "licenseversion:40", "program:openoregon", "source@https://openoregon.pressbooks.pub/bpsupmat/" ] https://phys.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fphys.libretexts.org%2FBookshelves%2FConceptual_Physics%2FBody_Physics_-_Motion_to_Metabolism_(Davis)%2F08%253A_Skydiving%2F8.03%253A_Body_Orientation_During_a_Skydive Search site Search Search Go back to previous article Username Password Sign in Sign in Sign in Forgot password Expand/collapse global hierarchy Home Bookshelves Conceptual Physics Body Physics - Motion to Metabolism (Davis) 8: Skydiving 8.3: Body Orientation During a Skydive Expand/collapse global location 8.3: Body Orientation During a Skydive Last updated Save as PDF Page ID 17769 Lawrence Davis Umpqua Community College via OpenOregon \( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \) \( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \) \( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\) ( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\) \( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\) \( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\) \( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\) \( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\id}{\mathrm{id}}\) \( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\kernel}{\mathrm{null}\,}\) \( \newcommand{\range}{\mathrm{range}\,}\) \( \newcommand{\RealPart}{\mathrm{Re}}\) \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\) \( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\| #1 \|}\) \( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\) \( \newcommand{\Span}{\mathrm{span}}\) \( \newcommand{\AA}{\unicode[.8,0]{x212B}}\) \( \newcommand{\vectorA}[1]{\vec{#1}} % arrow\) \( \newcommand{\vectorAt}[1]{\vec{\text{#1}}} % arrow\) \( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \) \( \newcommand{\vectorC}[1]{\textbf{#1}} \) \( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \) \( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \) \( \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash{\mathbf {#1}}}} \) \( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup} {\mathbf{#1}} } \) \( \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smash {#1}}} \) \(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\) \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\) \(\newcommand{\dtil}{\widetilde{\mathbf d}}\) \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\) \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\) \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\) \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\) \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\) \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\) \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\) \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\) \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\) \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2 \end{array}\right]}\) \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \end{array}\right]}\) \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \end{array}\right]}\) \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4 \\ #5 \\ \end{array}\right]}\) \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp #4 \\ \end{array}\right]}\) \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\) \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\) \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\) \(\newcommand{\ecal}{\cal E}\) \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\) \(\newcommand{\gray}[1]{\color{gray}{#1}}\) \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\) \(\newcommand{\rank}{\operatorname{rank}}\) \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\) \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\) \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\) \(\newcommand{\len}[1]{\left|#1\right|}\) \(\newcommand{\bbar}{\overline{\bvec}}\) \(\newcommand{\bhat}{\widehat{\bvec}}\) \(\newcommand{\bperp}{\bvec^\perp}\) \(\newcommand{\xhat}{\widehat{\xvec}}\) \(\newcommand{\vhat}{\widehat{\vvec}}\) \(\newcommand{\uhat}{\widehat{\uvec}}\) \(\newcommand{\what}{\widehat{\wvec}}\) \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{&lt;}\) \(\newcommand{\gt}{&gt;}\) \(\newcommand{\amp}{&amp;}\) \(\definecolor{fillinmathshade}{gray}{0.9}\) Drag Reinforcement Exercises A skydiver maintains a horizontal (flat) body position with arms and legs spread, which reduces the terminal velocity and increases the fall time. Image Credit: “Gabriel Skydiving” By Gabriel Christian Brown, via Wikimedia Commons [1] Correct and thoughtful body orientation is an important part of skydiving because the orientation of the body affects the amount of air resistance experienced by the body. In turn, the air resistance affects the terminal velocity, as we will see in the next chapter. Drag Simulation of fluid flowing around a sphere. “Drag of a Sphere” by Glenn Research Center Learning Technologies Project , NASA, via GIPHY is in the Public Domain, CC0 [2] Air resistance limits the terminal speed that a falling body can reach. Air resistance is an example of the drag force, which is force that objects feel when they move through a fluid (liquid or gas). Similar to kinetic friction, drag force is reactive because it only exists when the object is moving and it points in the opposite direction to the object’s motion through the fluid. Drag force can be broken into two types: form drag and skin drag. Form drag is caused by the resistance of fluids (liquids or gases) to being pushed out of the way by an object in motion through the fluid. Form drag is similar to the normal force provided by the resistance of solids to being deformed, only the fluid actually moves instead of just deforming. Skin drag is essentially a kinetic frictional force caused by the sliding of the fluid along the surface of the object. The drag force depends the density of the fluid (ρ), the maximum cross-sectional area of the object( ), and the drag coefficient ( ), which accounts for the shape of the object. Objects with a low drag coefficient are often referred to as having an aerodynamic or streamlined shape. Finally, the drag force depends on the on the speed ( v ) of the object through the fluid. If the fluid is not not very viscous then drag depends on v 2 , but for viscous fluids the force depends just on v . In typical situations air is not very viscous so the complete formula for air resistance force is: (1) The image below illustrates how the shape of an object, in this case a car, affects the drag coefficient. The table that follows provides drag coefficient values for a variety of objects. Drag coefficients of cars (vertical axis on left) have changed over time (horizontal axis). Image Credit: Drag of Car by Eshaan 1992 via Wikimedia Commons [3] Object Drag Coefficient ( C ) Airfoil 0.05 Toyota Camry 0.28 Ford Focus 0.32 Honda Civic 0.36 Ferrari Testarossa 0.37 Dodge Ram pickup 0.43 Sphere 0.45 Hummer H2 SUV 0.64 Skydiver (feet first) 0.70 Bicycle 0.90 Skydiver (horizontal) 1.0 Circular flat plate 1.12 [4] Reinforcement Exercises Which body orientation would put the largest drag force on a human body moving vertically through a fluid? body horizontal and sideways (side first) body vertical with arms in (feet first) body flat with arms out (front first) "Gabriel Skydiving" By Gabriel Christian Brown [CC BY-SA 4.0 ( https://creativecommons.org/licenses/by-sa/4.0 )], from Wikimedia Commons ↵ "Drag of a Sphere" by Glenn Research Center Learning Technologies Project , NASA, via GIPHY is in the Public Domain, CC0 ↵ Drag of Car By Eshaan 1992 [CC BY-SA 3.0 ( https://creativecommons.org/licenses/by-sa/3.0 )], from Wikimedia Commons ↵ OpenStax , College Physics. OpenStax CNX. Jan 17, 2019 http://cnx.org/contents/031da8d3-b525-429c-80cf-6c8ed997733a@14.5 ↵ This page titled 8.3: Body Orientation During a Skydive is shared under a CC BY-NC-SA 4.0 license and was authored, remixed, and/or curated by Lawrence Davis ( OpenOregon ) via source content that was edited to the style and standards of the LibreTexts platform. Back to top 8.2: Free Fall 8.4: Physical Model for Terminal Velocity Was this article helpful? Yes No Recommended articles Article type Section or Page Author Lawrence Davis License CC BY-NC-SA License Version 4.0 OER program or Publisher Open Oregon Show TOC no Tags source@https://openoregon.pressbooks.pub/bpsupmat/ source-chem-155533 © Copyright 2025 Physics LibreTexts Powered by CXone Expert ® The LibreTexts libraries are Powered by NICE CXone Expert and are supported by the Department of Education Open Textbook Pilot Project, the UC Davis Office of the Provost, the UC Davis Library, the California State University Affordable Learning Solutions Program, and Merlot. We also acknowledge previous National Science Foundation support under grant numbers 1246120, 1525057, and 1413739. Legal . Accessibility Statement For more information contact us at info@libretexts.org .
+                         </pagesubpageproperty>
+                        </pagesubpageproperty>
+                       </pagesubpageproperty>
+                      </pagesubpageproperty>
+                     </pagesubpageproperty>
+                    </pagesubpageproperty>
+                   </pagesubpageproperty>
+                  </pagesubpageproperty>
+                 </pagesubpageproperty>
+                </pagesubpageproperty>
+               </pagesubpageproperty>
+              </pagesubpageproperty>
+             </pagesubpageproperty>
+            </pagesubpageproperty>
+           </pagesubpageproperty>
+          </pagesubpageproperty>
+         </pagesubpageproperty>
+        </pagesubpageproperty>
+       </pagesubpageproperty>
+      </pagesubpageproperty>
+     </pagesubpageproperty>
+    </pagesubpageproperty>
+   </pagesubpageproperty>
+  </pagesubpageproperty>
+ </pagesubpageproperty>
+</pagesubpageproperty>
+
+
+Response:
+```json
+{
+    "title": "8.3: Body Orientation During a Skydive",
+    "author": "Lawrence Davis",
+    "date": "2024-03-12",
+    "source_organization": "OpenOregon"
+}
+```
+
+
+=== 2025-02-23T20:48:55.510102 ===
+Prompt:
+Are You Smart Enough to Work at Google?. ve42.co/areyousm
+
+
+Response:
+Are You Smart Enough to Work at Google? ve42.co/areyousm
+
+
+=== 2025-02-23T20:48:57.619216 ===
+Prompt:
+Giovanni Alfonso Borelli (1989). On the Movement of Animals. SOURCE NOT FOUND - ve42.co/onthemov
+
+
+Response:
+Giovanni Alfonso Borelli (1989). On the Movement of Animals. SOURCE NOT FOUND - ve42.co/onthemov
+
+
+=== 2025-02-23T20:48:59.752582 ===
+Prompt:
+In Head-Hunting, Big Data May Not Be Such a Big Deal. ve42.co/inheadhu
+
+
+Response:
+In Head-Hunting, Big Data May Not Be Such a Big Deal. ve42.co/inheadhu
+
+
+=== 2025-02-23T20:49:01.890104 ===
+Prompt:
+Drag Forces. ve42.co/dragforc
+
+
+Response:
+Drag Forces. ve42.co/dragforc
+
+
+=== 2025-02-23T20:49:04.379722 ===
+Prompt:
+UNKNOWN (Feb 28, 1995). Leg design and jumping technique for humans, other vertebrates and insects. Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences - ve42.co/legdesig
+
+
+Response:
+UNKNOWN (Feb 28, 1995). Leg design and jumping technique for humans, other vertebrates and insects. Philosophical Transactions of the Royal Society of London. Series B: Biological Sciences - ve42.co/legdesig
+
+
+=== 2025-02-23T20:49:06.080017 ===
+Prompt:
+Access Check. ve42.co/accessch
+
+
+Response:
+Access Check. ve42.co/accessch
+
+
+=== 2025-02-23T20:49:07.963683 ===
+Prompt:
+Jay J. Meyers, Anthony Herrel, James Birch (2002). Scaling of Morphology, Bite Force and Feeding Kinematics in an Iguanian and a Scleroglossan Lizard. Shaker Publishing - ve42.co/meyers20
+
+
+Response:
+Jay J. Meyers et al. (2002). Scaling of Morphology, Bite Force and Feeding Kinematics in an Iguanian and a Scleroglossan Lizard. Shaker Publishing - ve42.co/meyers20
+
+
+=== 2025-02-23T20:49:11.571754 ===
+Prompt:
+NOT_FOUND. ve42.co/notfound
+
+
+Response:
+NOT_FOUND. ve42.co/notfound
+
+
+=== 2025-02-23T20:49:14.920296 ===
+Prompt:
+Mette H. Rasmussen, Katinka Rønnow Holler, Joe E. Baio, Cherno Jaye, Daniel A. Fischer, Stanislav N. Gorb, Tobias Weidner (Jul 2022). Evidence that gecko setae are coated with an ordered nanometre-thin lipid film. Biology Letters - ve42.co/evidence
+
+
+Response:
+Mette H. Rasmussen et al. (Jul 2022). Evidence that gecko setae are coated with an ordered nanometre-thin lipid film. Biology Letters - ve42.co/evidence
+
+
+=== 2025-02-23T20:49:16.491203 ===
+Prompt:
+8.3: Body Orientation During a Skydive. ve42.co/83bodyor
+
+
+Response:
+8.3: Body Orientation During a Skydive. ve42.co/83bodyor
+
+
+=== 2025-02-23T20:49:18.645995 ===
+Prompt:
+Hulk vs. Ant-Man - Coca-Cola: Coke Mini. ClipsyBox. https://www.youtube.com/watch?v=sMkGwCw7iv8
+
+
+Response:
+Hulk vs. Ant-Man - Coca-Cola: Coke Mini. ClipsyBox. https://youtube.com/watch?v=smkgcw7iv8
+
+
+=== 2025-02-23T20:49:20.694144 ===
+Prompt:
+Squirrel has 44" vertical jump straight up to bird feeder! jumping. El Gato. https://www.youtube.com/watch?v=ethwLHw46JM
+
+
+Response:
+Squirrel Has 44" Vertical Jump Straight up to Bird Feeder! El Gato. https://www.youtube.com/watch?v=ethwLHw46JM
+
+
+=== 2025-02-23T20:49:22.594736 ===
+Prompt:
+Who can jump bigger part #2 #viral #horse #jumping #cute #equestrian #dog. A-purpose . https://www.youtube.com/shorts/mJhf7wYNkYA
+
+
+Response:
+Who Can Jump Bigger. A-purpose. https://www.youtube.com/shorts/mJhf7wYNkYA
