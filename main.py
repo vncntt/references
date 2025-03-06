@@ -24,8 +24,11 @@ except:
 
 # For Streamlit Cloud - access secrets
 def get_api_key(key_name):
-    if key_name in st.secrets:
-        return st.secrets[key_name]
+    try: 
+        if key_name in st.secrets:
+            return st.secrets[key_name]
+    except FileNotFoundError:
+        pass
     return os.getenv(key_name)  # Fallback to environment variable
 
 # Set up page configuration
@@ -508,7 +511,7 @@ def format_references(results):
         if row['source_type'] == 'youtube':
             ref = f"{row['author']}. {row['title']}. {row['original_url']}\n"
         elif row['source_type'] == 'wikipedia':
-            ref = f"{row['title']}. {row['original_url']}\n"
+            ref = f"{row['title']}. {row['short_url']}\n"
         elif row['source_type'] == 'website':
             ref = f"{row['title']}. {row['short_url']}\n"
         elif row['source_type'] == 'pdf' or row['source_type'] == 'doi':
