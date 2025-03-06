@@ -12,9 +12,9 @@ import json
 from transformers import AutoTokenizer
 from PyPDF2 import PdfReader
 import io
-import time
 import streamlit as st
 import base64
+import xml.etree.ElementTree as ET
 
 # For local development
 try:
@@ -81,6 +81,8 @@ def classify_url(url:str)-> Optional[Dict]:
 
     if "youtube.com" in parsed.netloc or "youtu.be" in parsed.netloc:
         return youtube_handler(url)
+    elif "arxiv.org" in parsed.netloc:
+        return arxiv_handler(url)
     elif is_pdf:
         return pdf_handler(url)
     elif "doi.org" in parsed.netloc or re.search(doi_pattern,url):
@@ -134,11 +136,96 @@ def youtube_handler(url:str) -> Dict:
         'short_url': f"ve42.co/{url_ending}"
     }
 
+def arxiv_handler(url: str) -> Dict:
+    """
+    Fetch metadata for an arXiv paper and return a standardized reference dict.
+    """
+    # 1) Extract the arXiv ID from the URL.
+    #    This regex captures both abs/ and pdf/ forms, possibly with a version, e.g. 2301.12345v2
+    match = re.search(r'arxiv\.org/(?:abs|pdf)/([\w.\-]+)', url)
+    if not match:
+        raise ValueError("Invalid arXiv URL format")
+
+    print("a")
+    arxiv_id = match.group(1)
+
+    # 2) Call the arXiv API:
+    query_url = f"http://export.arxiv.org/api/query?id_list={arxiv_id}&max_results=1"
+
+    print("a")
+    resp = requests.get(query_url)
+    if not resp.ok:
+        raise ValueError(f"arXiv API request failed: {resp.status_code}")
+
+    # 3) Parse the Atom XML.
+    #    We'll just parse the first <entry> block we find, extracting:
+    #    <title>, <published>, <author><name>, etc.
+
+    print("a")
+    root = ET.fromstring(resp.text)
+
+    # Namespace dictionary to help locate Atom elements. The default Atom namespace is:
+    # xmlns="http://www.w3.org/2005/Atom"
+    ns = {'atom': 'http://www.w3.org/2005/Atom'}
+
+    entry = root.find('atom:entry', ns)
+
+    print("a")
+    if entry is None:
+        # If there's no <entry> node, likely an error from the API
+        # The error text may show up as <entry><title>Error</title><summary>...</summary></entry>
+        # but let's fail more explicitly here.
+        raise ValueError("No arXiv entry found. Possibly a malformed ID or no results.")
+
+    # Title
+    print("a")
+    title_elem = entry.find('atom:title', ns)
+    title = title_elem.text.strip() if title_elem is not None else "UNKNOWN"
+
+    # Published date
+    published_elem = entry.find('atom:published', ns)
+    raw_pub_date = published_elem.text.strip() if published_elem is not None else ""
+    try:
+        dt = datetime.fromisoformat(raw_pub_date)
+        formatted_date = dt.strftime('%b %d, %Y')
+    except ValueError:
+        formatted_date = ""
+
+    # Authors. Each <author> has a <name> sub-element.
+    author_elems = entry.findall('atom:author', ns)
+    authors_list = []
+    for ae in author_elems:
+        name_elem = ae.find('atom:name', ns)
+        if name_elem is not None and name_elem.text:
+            authors_list.append(name_elem.text.strip())
+
+    if not authors_list:
+        author_str = "UNKNOWN"
+    elif len(authors_list) > 3:
+        # “Author et al.” if more than 3 authors
+        author_str = authors_list[0] + " et al."
+    else:
+        author_str = ", ".join(authors_list)
+
+    # 4) Construct a short_url "ve42.co/...":
+    #    Here we just base it on the arxiv_id (after stripping non-alphanumerics, then take up to 8 chars).
+    short_id = re.sub(r'[^a-zA-Z0-9]', '', arxiv_id.lower())[:8]  # e.g. "23011234"
+    short_url = f"ve42.co/{short_id}"
+
+    return {
+        'source_type': 'arxiv',
+        'title': title,
+        'author': author_str,
+        'date': formatted_date,
+        'source': 'arXiv',
+        'original_url': url,
+        'short_url': short_url,
+    }
 
 def doi_handler(url: str) -> Dict:
     """Extract metadata from DOI URL"""
     # Extract DOI from URL
-    doi_pattern = r'(10\.\d{4,}/[^/]+(?:-\d+)?)'
+    doi_pattern = r'(10\.\d{4,}/[^/\?]+)'
     if match := re.search(doi_pattern, url):
         doi = match.group(1)
     else:
@@ -515,6 +602,8 @@ def format_references(results):
         elif row['source_type'] == 'website':
             ref = f"{row['title']}. {row['short_url']}\n"
         elif row['source_type'] == 'pdf' or row['source_type'] == 'doi':
+            ref = f"{row['author']} ({row['date']}). {row['title']}. {row['source']} - {row['short_url']}\n"
+        elif row['source_type'] == 'arxiv':
             ref = f"{row['author']} ({row['date']}). {row['title']}. {row['source']} - {row['short_url']}\n"
 
         ref = final_check(ref)
